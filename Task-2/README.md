@@ -1,4 +1,4 @@
-# Titanic Passenger Survival Classification
+# Titanic Classification
 
 ## Task Description
 The primary objective of this project is to predict the survival of passengers on the Titanic. We employ classification techniques to determine whether a passenger is likely to survive or not based on various features such as socio-economic status, age, gender, and more. This task offers insights into understanding the factors that played a crucial role in passenger survival during this historic tragedy.
