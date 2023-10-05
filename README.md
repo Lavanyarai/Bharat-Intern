@@ -1,7 +1,4 @@
-# Bharat-Intern
-# Stock Prediction and Titanic Classification
-
-## Stock Prediction
+#Project 1-  Stock Prediction
 Predicting stock prices using LSTM (Long Short-Term Memory) neural networks.
 
 ### Description
@@ -12,7 +9,7 @@ This project leverages the power of LSTM neural networks to forecast stock price
 - Flexibility to choose any company's stock for analysis.
 - Jupyter Notebook for clear code presentation and visualization.
 
-## Titanic Classification
+#Project 2- Titanic Classification
 Predicting survival on the Titanic and identifying key factors.
 
 ### Description
