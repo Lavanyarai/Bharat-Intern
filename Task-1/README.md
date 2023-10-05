@@ -15,9 +15,6 @@ This project focuses on predicting stock prices using LSTM (Long Short-Term Memo
 - **Predictions**: The project guides you through the process of training an LSTM model and making stock price predictions.
 - **Educational**: Ideal for those looking to learn about time series forecasting, deep learning, and financial data analysis.
 
-## How to Use
-1. **Data Preparation**: Gather historical stock price data for the company you want to analyze.
-2. **Jupyter Notebook**: Open the provided Jupyter Notebook to explore the code and analysis.
-3. **Training and Predictions**: Follow the notebook's instructions to train the LSTM model and make stock price predictions.
+
 
 
